@@ -24,7 +24,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'z-ai/glm-5.2',
   'gpt-4': 'nvidia/nemotron-3-super-120b-a12b',
-  'gpt-4-turbo': 'meta/llama-3.3-70b-instruct',
+  'gpt-4-turbo': 'minimaxai/minimax-m3',
   'gpt-4o': 'nvidia/nemotron-3-ultra-550b-a55b',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
